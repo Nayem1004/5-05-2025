@@ -1,3 +1,4 @@
+/* selector */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -10,7 +11,7 @@ body {
     color: #333;
   }
 
-  /* Topic 2: Color, Background, Border, Text */
+  /* Color, Background, Border, Text */
   .header {
     background-color: #3498db;
     text-align: center;
@@ -20,7 +21,7 @@ body {
     border-bottom: 4px solid #61a3d0;
   }
 
-  /* Topic 3: Fonts, Text Decoration, Line Height, Letter Spacing */
+  /*Fonts, Text Decoration, Line Height, Letter Spacing */
   .text {
     padding: 20px;
     font-size: 20px;
@@ -29,7 +30,7 @@ body {
     text-decoration: underline  #27ae60;
   }
 
-  /* Topic 4: Width, Height, Max, Min */
+  /*Width, Height, Max, Min */
   .box-size {
     width: 500px;
     height: 300px;
@@ -39,7 +40,7 @@ body {
     margin: 20px auto;
   }
 
-  /* Topic 5: Margin, Padding, Border, Box Model */
+  /*Margin, Padding, Border, Box Model */
   .box-model {
     color: white;
     width: 250px;
@@ -50,7 +51,7 @@ body {
     box-shadow: #333;
   }
 
-  /* Topic 6: Display */
+  /*Display */
   .inline span {
     display: inline;
     color: red;
